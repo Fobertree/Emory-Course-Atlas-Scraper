@@ -1,0 +1,6 @@
+*.ipynb
+.env
+*.tar.gz
+*.json
+*.js
+*.csv
